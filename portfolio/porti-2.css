@@ -110,7 +110,6 @@ input:focus, textarea:focus, select:focus
 }
 #wb_Text3 p, #wb_Text3 ul
 {
-   text-decoration: none;
    margin: 0;
    padding: 0;
 }
