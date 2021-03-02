@@ -93,6 +93,7 @@ input:focus, textarea:focus, select:focus
 }
 #wb_Text3 
 {
+   text-decoration: none;
    background-color: transparent;
    background-image: none;
    border: 0px solid #000000;
