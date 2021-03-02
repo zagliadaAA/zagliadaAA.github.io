@@ -93,7 +93,6 @@ input:focus, textarea:focus, select:focus
 }
 #wb_Text3 
 {
-   text-decoration: none;
    background-color: transparent;
    background-image: none;
    border: 0px solid #000000;
@@ -103,6 +102,7 @@ input:focus, textarea:focus, select:focus
 }
 #wb_Text3
 {
+   text-decoration: none;
    color: #DDD5C5;
    font-family: Arial;
    font-weight: normal;
