@@ -1,0 +1,76 @@
+body {
+  margin: 0;
+  display: flex;
+  flex-direction: row;
+  align-content: space-between;
+  justify-content: space-between;
+  height: 100vh;
+  width: 100vw;
+  background: #3d708a;
+  overflow: hidden;
+}
+
+.area {
+  width: 100%;
+  height: 100%;
+}
+
+.ball-conteiner {
+  display: flex;
+  flex-direction: column;
+  padding: 0 30px;
+}
+
+.container-ball-plus {
+  display: flex;
+  justify-content: center;
+}
+
+.ball-img {
+  width: 50px;
+  height: auto;
+}
+
+.new-ball {
+  width: 50px;
+  height: auto;
+}
+
+.text-plus {
+  color: white;
+  padding: 1.2%;
+  font-size: 35px;
+  position: absolute;
+  
+}
+
+.tree {
+  max-width: 500px;
+  max-height: 500px;
+  width: 500px;
+  height: 500px;
+}
+
+.tree-img {
+  width: 100%;
+  height: auto;
+}
+
+.tree-toy {
+  position: absolute;
+}
+
+.my-name {
+  color: #ddd5c5;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: tahoma;
+  text-align: center;
+}
+
+.container-my-name {
+  display: flex;
+  /*align-items: center;
+  align-content: center;*/
+  
+}
