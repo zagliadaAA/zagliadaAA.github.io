@@ -63,8 +63,9 @@ body {
 .my-name {
   color: #ddd5c5;
   font-size: 30px;
-  font-weight: bold;
-  font-family: tahoma;
+  /*font-weight: bold;
+  font-family: tahoma;*/
+  font-family: fantasy;
   text-align: center;
 }
 
